@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french computer Science Student from France. I have been learning code for a few years, including languages like <b>Python</b>, <b>C</b>, <b>Java</b>, <b>PHP</b> and <b>JavaScript</b>.
+I'm a french computer Science Student from France. I have been learning code for a few years, including languages like <b>Python</b>, <b>C</b>, <b>Java</b>, <b>C#</b>, <b>PHP</b> and <b>JavaScript</b>.
 
 <h3>Technologies</h3>
 <p>
